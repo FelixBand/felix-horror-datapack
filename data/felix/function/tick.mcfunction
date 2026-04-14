@@ -12,4 +12,4 @@ execute as @e[type=spider] run attribute @s movement_speed base set 0.25
 execute as @e[type=spider] run attribute @s scale base set 0.4
 
 execute as @e[type=creeper] run data merge entity @s {Fuse:10}
-execute as @e[type=creeper] run attribute @s movement_speed base set 0.4
+execute as @e[type=creeper] run attribute @s movement_speed base set 0.275
